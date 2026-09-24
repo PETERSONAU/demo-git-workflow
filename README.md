@@ -1,3 +1,3 @@
 # demo-git-workflow
 程序设计实践_小作业1
-This line added by B.
+Added a demonstration line for the PR workflow.
